@@ -13,15 +13,14 @@
 <br>
 
 <p align="center">
-  <img alt="BMI Project" src="./github/preview.png" width="100%">
+  <img alt="BMI-Project" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
 
-- HTML
-- CSS
+- HTML and CSS
 - Javascript
 - Git and GitHub
 
