@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="GuessingGame" src="./github/preview.png" width="100%">
+  <img alt="BMI Project" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
